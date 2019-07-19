@@ -1,7 +1,5 @@
-# csc413-SecondGame
+#SuperRainbowReefGame
 
-## Student Name : Anmol Gondara
-## Student ID : 916110499
 ## IDE Used: IntelliJ IDEA 2018.2.5 (Ultimate Edition)
 ## Java Version Used: 1.8.0_101
 ## Current Working Directory: ~/Desktop/csc413-secondgame-anmol2727
